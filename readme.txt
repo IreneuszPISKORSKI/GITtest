@@ -1,2 +1,1 @@
-Hi, how are you?
-I'm fine. And you?
+Salut comment ça va?
